@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+.hand-regular {
+    font-family: "Tangerine", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.hand-bold {
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.reddit {
+  font-family: "Reddit Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
